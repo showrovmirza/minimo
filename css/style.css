@@ -1,0 +1,195 @@
+span{
+    color: gray;
+    /* margin-top: 33px; */
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+
+
+header{
+    margin-top: 59px;
+}
+.container{
+    width: 1400px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{
+    width: 40%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 60%;
+    float: left;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 70px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: gray;
+}
+
+
+
+
+.banner{
+    margin-top: 60px;
+}
+.banner img{
+    width: 100%;
+}
+
+.container_box{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.article_one{
+    margin-top: 80px;
+}
+.article_box_One{
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+.article_box_One h1{
+    font-size: 25px;
+    color: gray;
+}
+.article_box_One p{
+    color: gray;
+    margin-bottom: 58px;
+    font-size: 18px;
+}
+.article_box_One a{
+    text-decoration: none;
+    color: gray;
+}
+
+
+
+.gallery_one{
+    overflow: hidden;
+}
+.gallery_line_one{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 60px;
+}
+.gallery{
+    width: 50%;
+    float: left;
+    padding: 30px;
+    box-sizing: border-box;
+}
+.gallery img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.gallery h1{
+    color: gray;
+}
+.gallery p{
+    color: #585858;
+}
+
+
+.signup{
+    width: 100%;
+    background-color: #F0F0F0;
+    padding: 60px 0;
+}
+.signup p{
+    text-align: center;
+    font-size: 40px;
+}
+.signup input{font-size: 27px;border: none;background-color: #F0F0F0;margin-left: 756px;}
+.signup a{
+    color: gray;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.signup hr{
+    width: 21%;
+    text-align: center;
+}
+
+
+
+.gallery_two{}
+.gallery_box_three{}
+.gallery_box_three img{}
+.gallery_box_three h1{}
+.gallery_box_three p{}
+
+
+
+.button_part{
+    padding: 60px 0;
+}
+.button_part button{/* margin-right: auto; */padding: 21px 35px;margin-left: 892px;}
+
+footer{
+    width: 100%;
+    background-color: #F0F0F0;
+    padding: 60px 0;
+}
+.social_link{
+    width: 100%;
+    overflow: hidden;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+.part_one{
+    width: 50%;
+    float: left;
+}
+.part_one ul{
+    margin: 0;
+    padding: 0;
+}
+.part_one ul li{
+    display: inline;
+    margin-right: 39px;
+}
+.part_one ul li a{
+    text-decoration: none;
+    color: gray;
+}
+
+
+.part_two{
+    width: 50%;
+    float: left;
+}
+.part_two ul{
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+.part_two li{
+    LIST-STYLE: none;
+    display: inline;
+    margin-left: 30px;
+}
+.part_two ul li a{
+    color: gray;
+}
+.part_two ul li a:hover{}
+
